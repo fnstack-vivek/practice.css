@@ -1,4 +1,4 @@
-*{
+/* *{
   margin:0px;
   padding:0px;
 }
@@ -57,4 +57,4 @@
 .card-back {
   background:green;
   transform: rotateY(180deg);
-}
+} */
