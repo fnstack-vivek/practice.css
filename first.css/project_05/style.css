@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+body{
+    background-color:black;
+
+}
+
+.container{
+    background-color: #fff;
+    margin: 150px;
+    border: 2px solid gray;
+    border-radius: 10px;
+    color: black;
+
+}
+#btn{
+    background-color: green;
+    border:2px solid khaki;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 50%;
+    margin-bottom:7px;
+}
+#btun{
+    background-color: green;
+    border:2px solid khaki;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 50%;
+    margin-bottom:7px;
+
+}

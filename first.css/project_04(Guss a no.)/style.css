@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   
+
+}
+#wrapper{
+    border: 2px solid blue;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 150px;
+    padding: 20px;
+    background-color: #fff;
+    color: black;
+    height: 75%;
+    width: 50%;
+
+
+
+}
+#subt{
+    background-color: green;
+    color: aliceblue;
+    border: 2px solid gray;
+    padding: 3px;
+    
+
+
+}
+h1{
+    background-color: khaki;
+    padding: 5px;
+}
+.resultParas{
+    background-color: khaki;
+    padding: 5px;
+    font-style: italic;
+}

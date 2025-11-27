@@ -51,15 +51,15 @@ body{
 }
 
 .square:nth-child(odd) {
-  background: #f0d9b5; /* light */
+  background: #f0d9b5; /* light 
 }
 .square-rev:nth-child(even) {
-  background: #f0d9b5; /* light */
+  background: #f0d9b5; /* light 
 }
 .square-rev:nth-child(odd) {
-  background: #b58863; /* dark */
+  background: #b58863; /* dark 
 }
 
 .square:nth-child(even) {
-  background: #b58863; /* dark */
-} */
+  background: #b58863; /* dark 
+} 
